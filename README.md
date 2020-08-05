@@ -2,7 +2,7 @@
 
 # 5hre9a-
 
-<h1 align="center">Hi 👋, I'm Shreya</h1>
+<h1 align="center">Hey👋, Shreya here</h1>
 <h3 align="center">A passionate Full Stack developer from Hyderabad,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5hre9a" alt="5hre9a" /> </p>
@@ -16,5 +16,5 @@
 <p align="center">
 <a href="https://twitter.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="5hre9a" height="30" width="30" /></a>
 <a href="https://instagram.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="5hre9a" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/sg 5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sg 5hre9a" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/stargirl 5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sg 5hre9a" height="30" width="30" /></a>
 </p>
