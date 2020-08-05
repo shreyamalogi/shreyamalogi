@@ -18,4 +18,4 @@
 <a href="https://instagram.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="5hre9a" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/stargirl 5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sg 5hre9a" height="30" width="30" /></a>
 </p>
-<h3 align="center">Feel free to check my repo's and yea star it to encourage me! Thankyou</h3>
+<h3 align="center">Feel free to check my repo's and yea, star it to encourage me! Thankyou</h3>
