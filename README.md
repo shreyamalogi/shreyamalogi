@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hey 👋 Shreya here!</h1>
-<h3 align="center">A passionate Software Engineer with 3 years professional experience. Expert at applying programming skills to solve complex challenges</h3>
+<h1 align="center">Hey, 👋 Shreya here!</h1>
+<h3 align="center">A passionate Software Engineer with 2 years professional experience building applications. Proefficient in Flutter, Graphic Designing, Ethical Hacking and Full-Stack Development. Expert at applying programming skills to solve complex challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5hre9a" alt="5hre9a" /> </p>
 
