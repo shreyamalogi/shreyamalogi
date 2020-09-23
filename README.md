@@ -14,7 +14,11 @@
 
 - 🌱 I’m currently polishing *My competitive programming skills*
 
-- 👨‍💻 My portfolio is available at [Portfolio](https://3x921.csb.app/)
+- 👨‍💻 My [Portfolio](https://3x921.csb.app/)
+
+- 👍You can find my  [BEST WORKS](https://github.com/5hre9a/MyBestWorks) here!
+
+- 🎨 My [Visual Arts](https://vsco.co/5hre9aaesthetics) are available here!
 
 - 📝 I regularly upload [YouTube](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) Videos
 
