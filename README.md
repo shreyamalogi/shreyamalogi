@@ -10,17 +10,13 @@
 
 - 🔭 I’m currently a full-stack web developer at **KAMALA FARMS (A unit of KayneBiosciences LTD)**
 
-- 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:5hre9a@gmail.com)](mailto:5hre9a@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Stargirl%5hre9a%-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg)](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg)
-
+- 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:5hre9a@gmail.com)](mailto:5hre9a@gmail.com)
 
 
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <br />
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
