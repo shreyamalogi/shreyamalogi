@@ -8,7 +8,7 @@
 
 - ⚡ Currently persuing Btech **2nd year** in **CSE** from **St Mary's Group of Institutions,Hyderabad.**
 
-- 🔭 I’m currently a full-stack web developer at **KAMALA FARMS (A unit of KayneBiosciences LTD)**
+- 🔭 I’m currently a full-stack web developer at [Kamala Farms](https://kamalafarms.com/)
 
 - 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:5hre9a@gmail.com)](mailto:5hre9a@gmail.com)
 
@@ -20,7 +20,7 @@
 
 - 🎨 My [Visual Arts](https://vsco.co/5hre9aaesthetics) are available here!
 
-- 📝 I regularly upload [YouTube](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) Videos
+- 📽 I'm also a [YouTuber](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) Videos
 
 - 🤗 Fun fact: *Chocolates and Teddy Bears are ❤*
 
