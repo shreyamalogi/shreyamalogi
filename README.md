@@ -10,8 +10,7 @@
 
 - 🔭 I’m currently a full-stack web developer at **KAMALA FARMS (A unit of KayneBiosciences LTD)**
 
-- 📫 How to reach me **5hre9a@gmail.com**
-
+- 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:5hre9a@gmail.com)](mailto:5hre9a@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Stargirl%5hre9a%-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg)](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg)
 
 
 
