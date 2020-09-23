@@ -20,7 +20,7 @@
 
 - 🎨 My [Visual Arts](https://vsco.co/5hre9aaesthetics) are available here!
 
-- 📽 I'm also a [YouTuber](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) 
+- 📽 Do check out my [YouTube](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) channel
 
 - 🤗 Fun fact: *Chocolates and Teddy Bears are ❤*
 
