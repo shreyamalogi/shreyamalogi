@@ -24,7 +24,7 @@
 
 - 🤗 Fun fact: *Chocolates and Teddy Bears are ❤*
 
--📍Hyderabad,India🇮🇳
+- 📍Hyderabad,India🇮🇳
 
 
 <p align="center">
