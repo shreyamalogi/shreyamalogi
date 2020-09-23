@@ -24,6 +24,8 @@
 
 - 🤗 Fun fact: *Chocolates and Teddy Bears are ❤*
 
+-📍Hyderabad,India🇮🇳
+
 
 <p align="center">
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
