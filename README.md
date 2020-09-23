@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey, 👋 Shreya here!</h1>
-<h5 align="center">A passionate Software Engineer with 2 years professional experience building applications. Proefficient in Flutter, Graphic Designing, Ethical Hacking and Full-Stack Development. Expert at applying programming skills to solve complex challenges.</h5>
+<h5 align="center">A passionate Software Development Engineer with professional experience in building applications. Proefficient in Flutter, Graphic Designing, Ethical Hacking and Full-Stack Development. Expert at applying programming skills to solve complex challenges.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5hre9a" alt="5hre9a" /> </p>
 
@@ -20,7 +20,7 @@
 
 - 🎨 My [Visual Arts](https://vsco.co/5hre9aaesthetics) are available here!
 
-- 📽 I'm also a [YouTuber](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) Videos
+- 📽 I'm also a [YouTuber](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) 
 
 - 🤗 Fun fact: *Chocolates and Teddy Bears are ❤*
 
