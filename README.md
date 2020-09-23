@@ -12,6 +12,13 @@
 
 - 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:5hre9a@gmail.com)](mailto:5hre9a@gmail.com)
 
+- 🌱 I’m currently polishing *My competitive programming skills*
+
+- 👨‍💻 My portfolio is available at [Portfolio](https://3x921.csb.app/)
+
+- 📝 I regularly upload [YouTube](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) Videos
+
+- 🤗 Fun fact: *Chocolates and Teddy Bears are ❤*
 
 
 <p align="center">
