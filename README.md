@@ -22,7 +22,7 @@
 
 - 📽 Do check out my [YouTube](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) channel
 
-- 💫 Hobbies: Singing, gaming, Reading fanfictions, Drawing.
+- 💫 Hobbies: Singing, gaming, Reading the Bible, Drawing.
 
 - 🤗 Fun fact: *Chocolates and Teddy Bears are ❤*
 
