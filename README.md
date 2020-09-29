@@ -28,9 +28,6 @@
 
 - 📍Hyderabad,India🇮🇳
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-5hre9a.vercel.app/api/spotify-playing" alt="5hre9s Spotify Playing" width="350" />](https://open.spotify.com/track/7a1UiDLvw2yyuRPtANObXb?si=SuhTT-wjQdCt3IoKKDCkPQ)
-
 
 <p align="center">
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
