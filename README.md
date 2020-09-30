@@ -3,6 +3,11 @@
 <h1 align="center">Hey, 👋 Shreya here!</h1>
 <h5 align="center">An Aspirining SDE, AI Enthusiast. Passionate about Flutter, Graphic Designing, Ethical Hacking and Full-Stack Development. Love to apply my programming skills to solve complex challenges.</h5>
 
+
+[PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/5hre9a)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)]
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5hre9a" alt="5hre9a" /> </p>
 
 
