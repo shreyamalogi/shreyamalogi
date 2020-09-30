@@ -4,8 +4,12 @@
 <h5 align="center">An Aspirining SDE, AI Enthusiast. Passionate about Flutter, Graphic Designing, Ethical Hacking and Full-Stack Development. Love to apply my programming skills to solve complex challenges.</h5>
 
 
-[Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=5hre9a" alt="5hre9a" /> </p>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/5hre9a)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/5hre9a)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=5hre9a&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/5hre9a/5hre9a?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat
+
 
 
 - ⚡ Currently persuing Btech **2nd year** in **CSE** from **St Mary's Group of Institutions,Hyderabad.**
