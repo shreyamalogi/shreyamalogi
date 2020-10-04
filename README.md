@@ -54,6 +54,11 @@
   
 ![SHREYA's github stats](https://github-readme-stats.vercel.app/api?username=5hre9a&show_icons=true&theme=synthwave)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hre9a&theme=tokyonight&layout=compact" alt="5hre9a" />
+
+
+
+
 </div>
 
 <p align="center">
