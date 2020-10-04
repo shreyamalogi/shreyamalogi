@@ -1,4 +1,4 @@
-<img src="https://github.com/5hre9a/5hre9a/blob/master/5hre9a.gif" alt="about me" width="500" height="400">
+<img src="https://github.com/5hre9a/5hre9a/blob/master/5hre9a.gif" alt="about me" width="400" height="200">
 
 <h1 align="center">Hey, 👋 Shreya here!</h1>
 <h5 align="center">An Aspirining SDE, AI Enthusiast. Passionate about Flutter, Graphic Designing, Ethical Hacking and Full-Stack Development. Love to apply my programming skills to solve complex challenges.</h5>
