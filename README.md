@@ -66,5 +66,5 @@
 <a href="https://www.youtube.com/c/stargirl 5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stargirl 5hre9a" height="30" width="30" /></a>
 
 
-<h3 align="center">Feel free to check my repo's, contributions are always welcome and yea, 🌟 it to encourage me! Thankyou</h3>
+<h5 align="center">Feel free to check my repo's, contributions are always welcome.</h5>
 
