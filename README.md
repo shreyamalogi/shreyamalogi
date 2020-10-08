@@ -1,7 +1,7 @@
 <img src="https://github.com/5hre9a/5hre9a/blob/master/shreya.gif" alt="about me" width="400" height="200">
 
 <h1 align="center">Hey, 👋 Shreya here!</h1>
-<h5 align="center">An Aspirining SDE, Researcher, AI Enthusiast. Passionate about Flutter, Designing, Ethical Hacking and Full-Stack Development.</h5>
+<h6>align="center">An Aspirining SDE, Researcher, AI Enthusiast. Passionate about Flutter, Designing, Ethical Hacking and Full-Stack Development.</h6>
 
 
 
