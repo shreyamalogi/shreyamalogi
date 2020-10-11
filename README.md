@@ -11,7 +11,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/5hre9a/5hre9a?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 
-- 🔭 I’m currently a full-stack web developer at [Kayne Biosciences LTD](https://kamalafarms.com/)
+- 🔭 I’m currently a full-stack developer at [Kayne Biosciences LTD](https://kamalafarms.com/)
 
 - 👨‍💻 My [Website](http://sg5hre9a.ezyro.com/)
 
