@@ -22,10 +22,6 @@
 
 - 👍You can find my  [BEST WORKS](https://github.com/5hre9a/MyBestWorks) here!
 
-- 🎨 My [Visual Arts](https://vsco.co/5hre9aaesthetics) are available here!
-
-- 📽 Do check out my [YouTube](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg) channel
-
 - 💫 Hobbies: Singing, gaming, Reading the Bible, Watching cartoons 
 
 - 🤗 Fun fact: *Chocolates and Teddy Bears are ❤*
