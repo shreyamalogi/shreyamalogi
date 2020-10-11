@@ -11,7 +11,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/5hre9a/5hre9a?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 
-- 🔭 I’m currently a full-stack web developer at [Kamala Farms](https://kamalafarms.com/)
+- 🔭 I’m currently a full-stack web developer at [Kayne Biosciences LTD](https://kamalafarms.com/)
 
 - 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:5hre9a@gmail.com)](mailto:5hre9a@gmail.com)
 
