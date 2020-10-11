@@ -12,8 +12,6 @@
 
 
 
-- ⚡ Currently persuing Btech **2nd year** in **CSE** from **St Mary's Group of Institutions,Hyderabad.**
-
 - 🔭 I’m currently a full-stack web developer at [Kamala Farms](https://kamalafarms.com/)
 
 - 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:5hre9a@gmail.com)](mailto:5hre9a@gmail.com)
