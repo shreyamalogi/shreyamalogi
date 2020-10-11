@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently polishing *My competitive programming skills*
 
-- 👨‍💻 My [Portfolio](http://sg5hre9a.ezyro.com/)
+- 👨‍💻 My [Website](http://sg5hre9a.ezyro.com/)
 
 - 👍You can find my  [BEST WORKS](https://github.com/5hre9a/MyBestWorks) here!
 
