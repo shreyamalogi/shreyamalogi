@@ -15,8 +15,6 @@
 
 - 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:5hre9a@gmail.com)](mailto:5hre9a@gmail.com)
 
-- 🌱 I’m currently polishing *My competitive programming skills*
-
 - 👨‍💻 My [Website](http://sg5hre9a.ezyro.com/)
 
 - 👍You can find my  [BEST WORKS](https://github.com/5hre9a/MyBestWorks) here!
