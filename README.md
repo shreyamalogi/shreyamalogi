@@ -1,7 +1,7 @@
 <img src="https://github.com/5hre9a/5hre9a/blob/master/shreya.gif" alt="about me" width="400" height="200">
 
 <h1 align="center">Hey, 👋 Shreya here!</h1>
-<h6 align="center">An Aspirining SDE, Researcher, AI Enthusiast. Passionate about Flutter, Designing, Ethical Hacking and Full-Stack Development.</h6>
+
 
 
 
@@ -12,8 +12,6 @@
 
 
 - 🔭 I’m currently a full-stack developer at [Kayne Biosciences LTD](https://kamalafarms.com/)
-
-- 👨‍💻 My [Website](http://sg5hre9a.ezyro.com/)
 
 - 👍You can find my  [BEST WORKS](https://github.com/5hre9a/MyBestWorks) here!
 
