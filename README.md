@@ -1,6 +1,6 @@
 <img src="https://github.com/5hre9a/5hre9a/blob/master/shreya.gif" alt="about me" width="400" height="200">
 
-<h1 align="center">Hey, 👋 Shreya here!</h1>
+<h1 align="center">Hey,👋 Shreya here!</h1>
 
 
 
