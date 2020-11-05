@@ -2,9 +2,6 @@
 
 <h1 align="center">Hey,👋 Shreya  here!</h1>
 
-
-
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/5hre9a)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/5hre9a)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=5hre9a&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
