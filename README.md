@@ -13,7 +13,7 @@
 - 📍Hyderabad,India🇮🇳
 
 
-<p align="center">
+<p align="left">
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
@@ -24,7 +24,7 @@
   
 
 
-<div align="center">
+<div align="left">
   
 ![SHREYA's github stats](https://github-readme-stats.vercel.app/api?username=5hre9a&show_icons=true&theme=synthwave)
 
