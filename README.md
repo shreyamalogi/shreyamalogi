@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A passionate open source developer from India</h3>
 
@@ -6,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5hre9a" alt="5hre9a" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/5hre9a" target="blank"><img src="https://img.shields.io/twitter/follow/5hre9a?logo=twitter&style=for-the-badge" alt="5hre9a" /></a> </p>
-
 - 🔭 I’m currently working on **python**
 
-- 🌱 I’m currently learning **competitive programming**
+- 🌱 I’m currently into **competitive programming**
 
 - 💬 Ask me about **front-end, back-end, flutter, python**
 
@@ -44,5 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5hre9a&show_icons=true&locale=en" alt="5hre9a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5hre9a&" alt="5hre9a" /></p>
-
-
