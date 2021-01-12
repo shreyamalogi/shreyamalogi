@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey,👋 Shreya  here!</h1>
+
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/5hre9a)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/5hre9a)
@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="5hre9a" height="30" width="40" /></a>
+
 <a href="https://twitter.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://codesandbox.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="5hre9a" height="30" width="40" /></a>
@@ -50,8 +50,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/5hre9a"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5hre9a&show_icons=true&locale=en&layout=compact" alt="5hre9a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5hre9a&show_icons=true&locale=en" alt="5hre9a" /></p>
 
