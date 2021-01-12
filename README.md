@@ -38,7 +38,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=5hre9a&" alt="5hre9a">
 
 <h3 align="right">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/5hre9a"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/5hre9a"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
 
 
 
