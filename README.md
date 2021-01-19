@@ -47,6 +47,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hre9a&layout=compact&langs_count=6" />
 </a>
 
+<details>
+  <summary>:zap: Wakatime Week Stats</summary>
+  
+  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=5hre9a&hide_title=true)](https://wakatime.com/@5hre9a)
+
+</details>
+
 <h3 align="right">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/5hre9a"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
 
