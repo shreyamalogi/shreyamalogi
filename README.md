@@ -39,7 +39,13 @@
 
  
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=5hre9a&" alt="5hre9a"> </p> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=5hre9a&show_icons=true&line_height=45&theme=dracula&include_all_commits=true"> </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=5hre9a&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hre9a&layout=compact&langs_count=6" />
+</a>
 
 <h3 align="right">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/5hre9a"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
