@@ -5,6 +5,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" alt="5hre9a" /></a> </p>
 
+<h6 align="center">![GitHub metrics](https://metrics.lecoq.io/5hre9a)</h6>
+
+<h6 align="center">
+
 - 📄 my best works (20+) [https://github.com/5hre9a/MyBestWorks](https://github.com/5hre9a/MyBestWorks)
 
 - 🔭 I’m currently working on **python**
@@ -15,9 +19,9 @@
 
 - 📫 How to reach me **5hre9a@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/5hre9a/](https://www.linkedin.com/in/5hre9a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/5hre9a/](https://www.linkedin.com/in/5hre9a/) </h6>
 
-![GitHub metrics](https://metrics.lecoq.io/5hre9a)
+
 
 
 
