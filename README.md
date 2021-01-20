@@ -6,7 +6,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" alt="5hre9a" /></a> </p>
 
 <h6 align="center"> 
-![GitHub metrics](https://metrics.lecoq.io/5hre9a)</h6>
+![GitHub metrics](https://metrics.lecoq.io/5hre9a) 
+</h6>
 
 <h6 align="center">
 
