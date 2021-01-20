@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/5hre9a/](https://www.linkedin.com/in/5hre9a/)
 
+![GitHub metrics](https://metrics.lecoq.io/5hre9a)
+
 
 
 <h3 align="center">Connect with me:</h3>
