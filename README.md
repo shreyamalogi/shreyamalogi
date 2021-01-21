@@ -26,13 +26,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
 <a href="https://twitter.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://codesandbox.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://instagram.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="5hre9a" height="30" width="40" /></a>
-<a href="https://dribbble.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="5hre9a" height="30" width="40" /></a>
-<a href="https://www.behance.net/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://medium.com/@5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@5hre9a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/stargirl 5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stargirl 5hre9a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shre9a" height="30" width="40" /></a>
