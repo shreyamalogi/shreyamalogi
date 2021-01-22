@@ -13,7 +13,7 @@
 
 - 📄 my best works (20+) [https://github.com/5hre9a/MyBestWorks](https://github.com/5hre9a/MyBestWorks)
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **python.**
 
 - 🌱 I’m currently into **competitive programming**
 
