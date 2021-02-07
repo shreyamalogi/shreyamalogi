@@ -26,12 +26,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="5hre9a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="5hre9a" height="30" width="40" /></a>
+<a href="https://twitter.com/shreyamalogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="5hre9a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreyamalogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://codesandbox.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://instagram.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://medium.com/@5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@5hre9a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stargirl 5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stargirl 5hre9a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/stargirlshreya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stargirl 5hre9a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shre9a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="5hre9a" height="30" width="40" /></a>
@@ -47,13 +47,13 @@
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=5hre9a&" alt="5hre9a"> </p> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=5hre9a&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hre9a&layout=compact&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&langs_count=6" />
 </a>
 
-![GitHub metrics](https://metrics.lecoq.io/5hre9a)
+![GitHub metrics](https://metrics.lecoq.io/shreyamalogi)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shreyamalogi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
