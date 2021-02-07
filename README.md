@@ -34,7 +34,6 @@
 <a href="https://www.youtube.com/c/stargirl 5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stargirl 5hre9a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shre9a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="5hre9a" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="5hre9a" height="30" width="40" /></a>
