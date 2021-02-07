@@ -11,7 +11,7 @@
 
 <h6 align="center">
 
-- 📄 my best works (20+) [https://github.com/5hre9a/MyBestWorks](https://github.com/5hre9a/MyBestWorks)
+- 📄 my best works (20+) [https://github.com/shreyamalogi/MyBestWorks](https://github.com/5hre9a/MyBestWorks)
 
 - 🔭 I’m currently working on **python.**
 
@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **front-end, back-end, flutter, python**
 
-- 📫 How to reach me **5hre9a@gmail.com**
+- 📫 How to reach me **shreyamalogi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/5hre9a/](https://www.linkedin.com/in/5hre9a/) </h6>
+- 📄 Know about my experiences [https://www.linkedin.com/in/shreyamalogi/](https://www.linkedin.com/in/5hre9a/) </h6>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -57,7 +57,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/5hre9a)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/5hre9a"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/shreyamalogi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
 
 
 
