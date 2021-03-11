@@ -53,8 +53,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&langs_count=6" />
 </a>
 
-![GitHub metrics](https://metrics.lecoq.io/shreyamalogi)
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shreyamalogi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5hre9a" /></a></p><br><br>
 
