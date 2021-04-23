@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shreyamalogi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shreyamalogi/](https://www.linkedin.com/in/5hre9a/) </h6>
+- 📄 Connect with me [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/](https://www.linkedin.com/in/5hre9a/] </h6>
 
 
 <h3 align="center">Connect with me:</h3>
