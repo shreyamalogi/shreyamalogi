@@ -11,7 +11,7 @@
 
 <h6 align="center">
 
-- 📄 my best works (20+) [https://github.com/shreyamalogi/MyBestWorks](https://github.com/5hre9a/MyBestWorks)
+- 📄 my best works (20+) [MyBestWorks](https://github.com/5hre9a/MyBestWorks)
 
 - 🔭 I’m currently working on **python.**
 
@@ -21,10 +21,11 @@
 
 - 📫 How to reach me **shreyamalogi@gmail.com**
 
-- 📄 Connect with me [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/] </h6>
+- 📄 Connect with me [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/)</h6>
+- --
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">OTHER HANDLES:</h3>
 <p align="center">
 <a href="https://twitter.com/shreyamalogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyamalogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="5hre9a" height="30" width="40" /></a>
