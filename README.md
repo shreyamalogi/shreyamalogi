@@ -32,7 +32,7 @@
 <a href="https://codesandbox.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://instagram.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://medium.com/@5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@5hre9a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stargirlshreya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stargirl 5hre9a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stargirl 5hre9a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shre9a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="5hre9a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/5hre9a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="5hre9a" height="30" width="40" /></a>
