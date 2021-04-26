@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **front-end, back-end, flutter, python**
 
-- 📫 How to reach me **shreyamalogi@gmail.com**
+- 📫 How to reach me **5hre9a@gmail.com**
 
 - 📄 Connect with me [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/)</h6>
 - --
