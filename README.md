@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently into **competitive programming**
 
-- 💬 Ask me about **Full stack development, flutter, python, **
+- 💬 Ask me about **Full stack development, flutter, python**
 
 - 📫 How to reach me [EMAIL](mailto:5hre9a@gmail.com)
 
