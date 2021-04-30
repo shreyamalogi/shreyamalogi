@@ -26,6 +26,7 @@
 - --
 
 
+
 <h3 align="left">OTHER HANDLES:</h3>
 <p align="left">
 <a href="https://twitter.com/shreyamalogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="5hre9a" height="30" width="40" /></a>
@@ -41,14 +42,18 @@
  
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&langs_count=6" />
-</a>
 
 
+<div align="center" >
+  
+<a  href="https://github.com/SP-XD"> 
+  
+<img alt="shreya's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
+
+</a>
+
+<hr></hr>
 
 
 <div>
