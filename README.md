@@ -14,11 +14,9 @@
 
 - 📄 my best works (20+) [MyBestWorks](https://github.com/5hre9a/MyBestWorks)
 
-- 🔭 I’m currently working on **python.**
-
 - 🌱 I’m currently into **competitive programming**
 
-- 💬 Ask me about **front-end, back-end, flutter, python**
+- 💬 Ask me about **Full stack development, flutter, python, **
 
 - 📫 How to reach me [EMAIL](mailto:5hre9a@gmail.com)
 
