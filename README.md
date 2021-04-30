@@ -56,7 +56,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&langs_count=6" />
 </a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5opio8ppfitxcfjqhu2ol0g38&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 
 
