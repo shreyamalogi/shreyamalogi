@@ -12,7 +12,7 @@
 
 <h6 align="left">
 
-- 📄 my best works (20+) [MyBestWorks](https://github.com/5hre9a/MyBestWorks)
+- 📄 my best works (50+) [MyBestWorks](https://github.com/5hre9a/MyBestWorks)
 
 - 🌱 I’m currently into **competitive programming**
 
