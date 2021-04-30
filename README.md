@@ -25,6 +25,33 @@
 - 📄 Connect with me [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/)</h6>
 - --
 
+<details>
+  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <br/>
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
+![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
+![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
+![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+
+
+</details>
+
 
 <details>
   <summary><b>:gear: &nbsp;Other Handles</b></summary>
