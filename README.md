@@ -48,6 +48,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&langs_count=6" />
 </a>
 
+/*[![shreya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreyamalogi)](https://github.com/anuraghazra/github-readme-stats)*/
+
 
 
 
