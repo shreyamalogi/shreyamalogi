@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=5hre9a&label=Profile%20views&color=0e75b6&style=flat" alt="5hre9a" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" alt="5hre9a" /></a> </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=dark&ring=7016DD)](https://git.io/streak-stats)
+
+// <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" alt="5hre9a" // /></a> </p>
 
 <h6 align="center"> 
  
