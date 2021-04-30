@@ -48,7 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&langs_count=6" />
 </a>
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+Here are some 🦜 parrots
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
