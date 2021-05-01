@@ -14,9 +14,9 @@
 
 - 📄 my best works (50+) [MyBestWorks](https://github.com/5hre9a/MyBestWorks)
 
-- 🌱 I’m currently into **competitive programming**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Full stack development, flutter, python**
+- 💬 Ask me about **anything, I am ready to help**
 
 - 📫 How to reach me [EMAIL](mailto:5hre9a@gmail.com)
 
