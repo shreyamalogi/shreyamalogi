@@ -14,10 +14,6 @@
 
 - 📄 my best works (50+) [MyBestWorks](https://github.com/5hre9a/MyBestWorks)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 💬 Ask me about **anything, I am ready to help**
-
 - 📫 How to reach me [EMAIL](mailto:5hre9a@gmail.com)
 
 - 📄 Connect with me [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/)</h6>
@@ -41,11 +37,12 @@
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
 ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/FLASK-323330.svg?&style=flat&logo=flask&logoColor=%23F7DF1E)&nbsp;
+![Turtle](https://img.shields.io/badge/TURTLE-47A248.svg?&style=flat&logo=turtle&logoColor=white)&nbsp;
 
 
 </details>
@@ -74,7 +71,6 @@
 
  
 
-<details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
  
 <div align="left" >
@@ -82,7 +78,7 @@
 <img alt="shreya's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
 
-</details>
+
 
 
 
