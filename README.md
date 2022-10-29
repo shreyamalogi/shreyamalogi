@@ -43,18 +43,13 @@
 
 
 
-
-<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
-<p align="center">
-<a href="https://shreyamalogi.wrapped.run"><b>GitHub Wrapped</b></a>
-
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/shreyamalogi/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&theme=merko" height = "200px" width = "1600">
+<a href="https://github.com/shreyamalogi/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&theme=merko" height = "200px" width = "1900">
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
