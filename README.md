@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5hre9a&label=Profile%20views&color=0e75b6&style=flat" alt="5hre9a" /> </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=dark&ring=7016DD)](https://git.io/streak-stats)
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+ 
+<div align="left" >
+  
+<img alt="shreya's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
 
 - --
 <h6 align="left"> 
@@ -71,14 +76,11 @@
 
  
 
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+
+
+
  
-<div align="left" >
-  
-<img alt="shreya's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
-
-
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=dark&ring=7016DD)](https://git.io/streak-stats)
 
 
 
