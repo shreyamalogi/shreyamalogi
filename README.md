@@ -22,6 +22,10 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=5hre9a&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="5hre9a" /> </p>
 
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shreyamalogi&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
@@ -44,12 +48,16 @@
 
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/shreyamalogi/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&theme=merko" height = "200px" width = "1900">
+<p align="right">
+<a href="https://github.com/shreyamalogi/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&theme=merko" height = "200px" width = "2000">
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko">
+<p align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+
+
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -212,6 +220,9 @@
 
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
+
+
+
 
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
