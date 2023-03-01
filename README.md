@@ -34,18 +34,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://camo.githubusercontent.com/38440fca5cd74842866300677da0a6a9189affc62d7fdf1b0718d3aa03654454/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26637573746f6d5f7469746c653d7e2532307e2532307e2532304d7925323050726f66696c65253230436f6e747269627574696f6e25323047726170682532307e2532307e2532307e26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
-
-
-
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="right">
@@ -108,7 +96,7 @@
 - 📄 Connect with me [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/)</h6>
 
 
-<details>
+
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -134,7 +122,7 @@
 ![Turtle](https://img.shields.io/badge/TURTLE-47A248.svg?&style=flat&logo=turtle&logoColor=white)&nbsp;
 
 
-</details>
+
 
 
 <details>
@@ -172,17 +160,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600">
 
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400">
 
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
