@@ -20,7 +20,7 @@
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=5hre9a&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="5hre9a" /> </p>
+<img src="https://komarev.com/ghpvc/?username=shreyamalogi&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="5hre9a" /> </p>
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
