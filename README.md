@@ -32,17 +32,16 @@
 
 <!--🖼️OCTOCAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="200px" height="200px"></p>
 
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&theme=merko" height = "200px" width = "1600">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&theme=merko" height = "200px" width = "4400">
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
+
 <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko">
-<p align="right">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 
 
