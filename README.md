@@ -41,8 +41,8 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko" height = "200px" width = "4400">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=merko&date_format=M%20j%5B%2C%20Y%5D" height = "200px" width = "4400">
 
 
 
