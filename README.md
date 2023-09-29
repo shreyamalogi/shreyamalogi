@@ -31,7 +31,7 @@
 
 <!--🖼️OCTOCAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="200px" height="200px"></p>
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="200px" height="300px"></p>
 
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
@@ -42,7 +42,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko" height = "200px" width = "4400">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shreyamalogi&theme=merko&date_format=M%20j%5B%2C%20Y%5D" height = "250px" width = "4400">
+
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
@@ -71,35 +71,22 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-   <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
 </div>
 
 
 
+  <h6 align="center">
 
+    - 📄 [My Best Works (50+)](https://github.com/5hre9a/MyBestWorks)
+    - 📫 How to reach me [EMAIL](mailto:5hre9a@gmail.com)
+    - 📄 Connect with me on [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/)
+    
+  </h6>
 
-
-- --
-<h6 align="left"> 
- 
-</h6>
-
-<h6 align="left">
-
-- 📄 my best works (50+) [MyBestWorks](https://github.com/5hre9a/MyBestWorks)
-
-- 📫 How to reach me [EMAIL](mailto:5hre9a@gmail.com)
-
-- 📄 Connect with me [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/)</h6>
-
-
-
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-  <br/>
+  <details align="center">
+    <summary><b>:computer: &nbsp;Main Tech Knowledge</b></summary>
+    <br/>
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -121,7 +108,11 @@
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/FLASK-323330.svg?&style=flat&logo=flask&logoColor=%23F7DF1E)&nbsp;
 ![Turtle](https://img.shields.io/badge/TURTLE-47A248.svg?&style=flat&logo=turtle&logoColor=white)&nbsp;
+    
 
+  </details>
+
+</p>
 
 
 
