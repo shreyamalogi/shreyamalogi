@@ -3,12 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
 
-
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--🖼️ILOVEOPENSOURCE-->
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
@@ -31,17 +28,16 @@
 
 <!--🖼️OCTOCAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="200px" height="300px"></p>
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&theme=merko" height = "200px" width = "4400">
+<p align="center">
+  <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=compact&theme=merko" height="300px" width="900">
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko" height = "200px" width = "4400">
-
+  <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&theme=merko" height="300px" width="700">
+</p>
 
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
@@ -67,6 +63,9 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
@@ -76,13 +75,14 @@
 
 
 
-  <h6 align="center">
+## <p align="center"> 📄 [My Best Works (50+)](https://github.com/5hre9a/MyBestWorks) </p>
 
-    - 📄 [My Best Works (50+)](https://github.com/5hre9a/MyBestWorks)
-    - 📫 How to reach me [EMAIL](mailto:5hre9a@gmail.com)
-    - 📄 Connect with me on [LINKEDIN](https://www.linkedin.com/in/shreyamalogi/)
-    
-  </h6>
+## <p align="center"> 📫 How to reach me <a href="mailto:5hre9a@gmail.com">EMAIL</a> </p>
+
+## <p align="center">📄 Connect with me on <a href="https://www.linkedin.com/in/shreyamalogi/">LINKEDIN</a> </p>
+
+
+
 
   <details align="center">
     <summary><b>:computer: &nbsp;Main Tech Knowledge</b></summary>
@@ -126,8 +126,6 @@
 
 
 
-
-
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
@@ -135,29 +133,6 @@
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
