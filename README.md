@@ -36,6 +36,23 @@
   <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 </p>
 
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+SHREYA MALOGI</a></h1>
+<h3 align="center">Software Engineer || Full-Stack Developer || Menttor &#127470;&#127475</h3>
+
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">CodeMacrocosm</a> 
+
+- 🤝 I’m available for freelancing.
+
+- 📫 How to reach me **5hre9a@gmail.com**
+
+- 📄 Connect with me 🤝  <a href="https://linkedin.com/in/shreyamalogi" target="blank">Linkedin</a>
+
 
 
 
