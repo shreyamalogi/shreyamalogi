@@ -81,10 +81,10 @@ Shreya Malogi</a></h1>
 
 <div align="center">
   <div style="float: left; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&locale=en" alt="GitHub Stats" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&locale=en" alt="GitHub Stats" width="1200" height="250">
   </div>
   <div style="float: left;">
-    <img src="https://streak-stats.demolab.com/?user=shreyamalogi&hide_border=true" alt="GitHub Streak" width="400">
+    <img src="https://streak-stats.demolab.com/?user=shreyamalogi&hide_border=true" alt="GitHub Streak" width="1200" height="250">
   </div>
   <div style="clear: both;"></div>
 </div>
