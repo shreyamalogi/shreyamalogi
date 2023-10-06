@@ -26,24 +26,22 @@ Shreya Malogi</a></h1>
 <img src="https://komarev.com/ghpvc/?username=shreyamalogi&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="5hre9a" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
+  <img align="right" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
 </a>
 
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=shreyamalogi&layout=compact&hide_border=true)
 
 
 
-- 🔭 I’m currently an Entrepreneur and SDE at <a href="https://github.com/CodeMacrocosm" target="blank">CodeMacrocosm</a> 
+- 🔭 I’m currently an Entrepreneur and Software Engineer at <a href="https://github.com/CodeMacrocosm" target="blank">CodeMacrocosm</a> 
 
 - 🤝 I’m available for freelancing.
 
-- 📫 How to reach me **5hre9a@gmail.com**
-  
-- 🌐 My Best Works - [Click here](https://github.com/shreyamalogi/MyBestWorks)
+- 📫 How to reach me **shreyamalogi@gmail.com**
 
 - 📄 Connect with me 🤝  <a href="https://linkedin.com/in/shreyamalogi" target="blank">Linkedin</a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyamalogi&repo=MyBestWorks)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
@@ -88,13 +86,17 @@ Shreya Malogi</a></h1>
 
 
 <div align="center">
-  <div style="display: inline-block; margin-right: 20px;">
+  <div style="float: left; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&locale=en" alt="GitHub Stats" width="400">
   </div>
-  <div style="display: inline-block;">
+  <div style="float: left;">
     <img src="https://streak-stats.demolab.com/?user=shreyamalogi&hide_border=true" alt="GitHub Streak" width="400">
   </div>
+  <div style="clear: both;"></div>
 </div>
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=shreyamalogi&layout=compact&hide_border=true)
+
 
 
 
