@@ -30,6 +30,9 @@ Shreya Malogi</a></h1>
 </a>
 
 
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=shreyamalogi&layout=compact&hide_border=true)
+
+
 
 - 🔭 I’m currently an Entrepreneur and SDE at <a href="https://github.com/CodeMacrocosm" target="blank">CodeMacrocosm</a> 
 
@@ -74,13 +77,30 @@ Shreya Malogi</a></h1>
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyamalogi&show_icons=true&locale=en&layout=compact" alt="shreyamalogi" />
-</p>
 
-<p align="center">
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&locale=en" alt="shreyamalogi" />
-</p>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=donut" alt="Top Langs" width="300" height="150">
+  </a>
+</div>
+
+
+
+<div align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&locale=en" alt="GitHub Stats" width="400">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://streak-stats.demolab.com/?user=shreyamalogi&hide_border=true" alt="GitHub Streak" width="400">
+  </div>
+</div>
+
+
+
+
+
+
 
 
 <h3 align="center">Languages and Tools:</h3>
