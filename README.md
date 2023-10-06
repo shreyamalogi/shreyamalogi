@@ -38,7 +38,7 @@ Shreya Malogi</a></h1>
 
 - 📄 Connect with me 🤝  <a href="https://linkedin.com/in/shreyamalogi" target="blank">Linkedin</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyamalogi&repo=MyBestWorks)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyamalogi&repo=MyBestWorks)](https://github.com/shreyamalogi/MyBestWorks)
 
 
 <h2 align="center">Languages and Tools:</h2>
