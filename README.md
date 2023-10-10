@@ -10,9 +10,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center"> <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Shreya Malogi</a></h1>
-<h3 align="center">Software Engineer || Full-Stack Developer || Mentor &#127470;&#127475</h3>
+<h3 align="center">Software Engineer || Full-Stack Developer || TechPreneur&#127470;&#127475</h3>
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
