@@ -91,6 +91,9 @@ Shreya Malogi</a></h1>
   <div style="clear: both;"></div>
 </div>
 
+
+[![An image of @5hre9a's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5hre9a)](https://holopin.io/@5hre9a)
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
