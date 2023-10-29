@@ -70,7 +70,7 @@ Shreya Malogi</a></h1>
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shreyamalogi&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=shreyamalogi&theme=shadow_green&no-frame=true&row=1&&margin-w=30&no-bg=true">
 
 <!--🖼️OCTOCAT-->
 <p align="center">
@@ -78,16 +78,16 @@ Shreya Malogi</a></h1>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&layout=donut" alt="Top Langs" width="500" height="250">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&theme=shadow_green&layout=donut" alt="Top Langs" width="500" height="250">
   </a>
 </div>
 
 <div align="center">
   <div style="float: left; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&show_icons=true&locale=en" alt="GitHub Stats" width="1200" height="250">
+    <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&theme=shadow_green&show_icons=trueshow_icons=true&locale=en" alt="GitHub Stats" width="1200" height="250">
   </div>
   <div style="float: left;">
-    <img src="https://streak-stats.demolab.com/?user=shreyamalogi&hide_border=true" alt="GitHub Streak" width="1400" height="250">
+    <img src="https://streak-stats.demolab.com/?user=shreyamalogi&theme=shadow_green" alt="GitHub Streak" width="1400" height="250">
   </div>
   <div style="clear: both;"></div>
 </div>
