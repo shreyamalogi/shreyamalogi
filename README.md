@@ -13,7 +13,7 @@
 
 <h1 align="center"> <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Shreya Malogi</a></h1>
-<h3 align="center">Software Engineer || Full-Stack Developer || Tech-SoloPreneur&#127470;&#127475</h3>
+<h3 align="center">Software Engineer || Full-Stack Developer || Tech-Entrepreneur&#127470;&#127475</h3>
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
