@@ -34,8 +34,6 @@ Shreya Malogi</a></h1>
 
 - 🔭 Entrepreneur and Software Engineer at <a href="https://github.com/CodeMacrocosm" target="blank">CodeMacrocosm</a> 
 
-- 🤝 I’m available for freelancing.
-
 - 📫 How to reach me **shreyamalogi@gmail.com**
 
 - 📄 Connect with me 🤝  <a href="https://linkedin.com/in/shreyamalogi" target="blank">Linkedin</a>
