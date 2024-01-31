@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
-<h1 align="center"> <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center"> 
 Shreya Malogi</a></h1>
 <h3 align="center"> Software Engineer 👩‍💻 | Full-Stack Developer 🖥️ | Founder & CEO - Codemacrocosm</h3>
 <h3 align="center"> 🏢 Youngest Woman Tech-Entrepreneur with 3 years of experience 🏆 Developing Tomorrow's Legacy Today 👑 </h3>
