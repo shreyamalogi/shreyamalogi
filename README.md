@@ -29,7 +29,7 @@ Shreya Malogi</a></h1>
 <img src="https://komarev.com/ghpvc/?username=shreyamalogi&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="5hre9a" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="300" height="100" width="100" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
+  <img align="right" top="300" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
 </a>
 
 - 📫 How to reach me **5hre9a@gmail.com**
