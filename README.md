@@ -32,11 +32,7 @@ Shreya Malogi</a></h1>
   <img align="right" top="300" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
 </a>
 
-
-
-
 - 📫 How to reach me **5hre9a@gmail.com**
-
 
 - 📄 Connect with me 🤝  <a href="https://linkedin.com/in/shreyamalogi" target="blank">Linkedin</a>
 
