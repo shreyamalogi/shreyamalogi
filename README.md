@@ -13,7 +13,8 @@
 
 <h1 align="center"> 
 Shreya Malogi</a></h1>
-<h3 align="center"> Software Engineer 👩‍💻 | Full-Stack Developer 🖥️ | Founder / CEO / Technical Director - Codemacrocosm</h3>
+<h3 align="center"> Software Engineer 👩‍💻 | Full-Stack Developer 🖥️ | Data Enthusiast 🤖  | Educator 🌐 </h3>
+<h3 align="center"> Founder, CEO, Technical Director at <a href="https://github.com/CodeMacrocosm" target="blank">CodeMacrocosm</a>  </h3>
 <h3 align="center"> 🏢 Youngest Woman Tech-Entrepreneur 🏆 Developing Tomorrow's Legacy Today 👑 </h3>
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
@@ -32,9 +33,7 @@ Shreya Malogi</a></h1>
 </a>
 
 
-- 🔭 Software Engineer & Entrepreneur at <a href="https://github.com/CodeMacrocosm" target="blank">CodeMacrocosm</a>
 
--  💻 **Providing services**: [Software Development, Design, Marketing & Counselling ](https://github.com/shreyamalogi/MyBestWorks/blob/master/services.md)
 
 - 📫 How to reach me **5hre9a@gmail.com**
 
