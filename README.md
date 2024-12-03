@@ -13,7 +13,7 @@
 
 <h1 align="center"> 
 Shreya Malogi</a></h1>
-<h3 align="center"> Software Engineer | Full-Stack Developer | Data Science Enthusiast   | Educator </h3>
+<h3 align="center"> Software Engineer | Full-Stack Developer  </h3>
 <h3 align="center"> Founder / CEO / Technical Director at <a href="https://github.com/CodeMacrocosm" target="blank">CodeMacrocosm</a> (4+ years )</h3>
 
 
