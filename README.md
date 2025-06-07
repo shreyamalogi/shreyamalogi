@@ -11,32 +11,58 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
-<h1 align="center"> 
-Shreya Malogi</a></h1>
-<h3 align="center"> Software Engineer | Full-Stack Developer  </h3>
-<h3 align="center"> Founder / CEO / Technical Director at <a href="https://github.com/CodeMacrocosm" target="blank">CodeMacrocosm</a> (4+ years )</h3>
 
+<h1 align="center">Shreya Malogi</h1>
 
-<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
+<p align="center">📍 Berlin, Germany</p>
+
+<h3 align="center">
+  🎓 MSc Data Analytics @ BSBI | 💻 Full-Stack Developer | 🤖 AI & Data Enthusiast  
+</h3>
+
+<h3 align="center">
+  Founder at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a> (4+ years)
+</h3>
+
+<h3 align="center">
+  🔍 Actively seeking freelance projects, internships, full-time, and part-time roles in tech, AI, and software development.
+</h3>
+
+---
+
 <p align="center">
   <a href="https://github.com/shreyamalogi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shreyamalogi"/></a><a href="https://github.com/shreyamalogi?tab=followers"><a href="https://github.com/shreyamalogi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shreyamalogi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="total stars" title="Total stars on GitHub"
+    src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shreyamalogi"/>
+  </a>
+  
+  <a href="https://github.com/shreyamalogi?tab=followers">
+    <img alt="followers" title="Follow me on GitHub"
+    src="https://custom-icon-badges.herokuapp.com/github/followers/shreyamalogi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+</p>
 
-    
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shreyamalogi&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="5hre9a" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=shreyamalogi&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="Profile views" />
+</p>
 
-<a target="_blank" align="center">
-  <img align="right" top="300" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
+<a align="right">
+  <img align="right" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
 </a>
 
-- 📫 How to reach me **5hre9a@gmail.com**
+---
 
-- 📄 Connect with me 🤝  <a href="https://linkedin.com/in/shreyamalogi" target="blank">Linkedin</a>
+- 📫 How to reach me: **shreyamalogi@gmail.com**  
+- 🤝 Connect with me: [LinkedIn](https://linkedin.com/in/shreyamalogi)
+
+---
+
+### 🔧 Featured 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyamalogi&theme=shadow_green&repo=MyBestWorks)](https://github.com/shreyamalogi/MyBestWorks)
+
+
+
 
 
 <h2 align="center">Languages and Tools:</h2>
