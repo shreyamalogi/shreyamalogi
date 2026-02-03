@@ -12,6 +12,55 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
 
+# 👋 Hi, I'm Shreya Malogi
+**Data Scientist | ML Engineer | MSc Data Analytics @ BSBI Berlin** | 
+ Founder at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
+
+---
+
+### 🚀 Career Objective & Availability
+🎯 **Actively Seeking:** * **Werkstudent (Working Student) Roles** (Immediate Start)
+
+🎓 **Full-Time Data Science/ML Roles** (From April 2026)
+ 
+📍 **Location:** Berlin, Germany (Open to Hybrid/Remote)
+
+🇩🇪 **Language:** **Professional Working Proficiency in German (B1)**
+
+---
+
+### 📊 Professional Highlights
+* 🔭 **Current Project:** Architecting an **Industrial Demand Forecasting Pipeline** for 15.2M records.
+* ⚙️ **Resource Optimization:** Expert in memory-safe data processing (achieved **70% RAM reduction** via downcasting).
+* 🎓 **Academics:** Advancing research in **Sales Analytics** and **Predictive Modeling** at BSBI.
+* 👥 **Leadership:** Former **Technical Director** of a global open-source community (scaled to 500+ devs).
+
+---
+
+### 🛠️ Technical Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Science / ML** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-blue) ![XGBoost](https://img.shields.io/badge/-XGBoost-blue) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
+| **Big Data / Cloud** | ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **Vision / Real-Time**| ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![HOG/Dlib](https://img.shields.io/badge/-Dlib-red) |
+
+---
+
+### 🏆 Featured Project: Industrial-Scale Forecasting
+**Scale:** 15.2 Million Transactions | **Optimization:** 70% RAM Reduction
+*A production-grade pipeline solving zero-inflation in retail demand using Tweedie-LightGBM.*
+[**Explore Repository →**](https://github.com/shreyamalogi/Industrial-Demand-Forecasting-Pipeline)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyamalogi/) 
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyamalogi@gmail.com)
+
+
+
+
 <h1 align="center">Shreya Malogi</h1>
 
 <p align="center">📍 Berlin, Germany</p>
