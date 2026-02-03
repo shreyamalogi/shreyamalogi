@@ -11,10 +11,13 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
+<p align="center">
+  <h1>👋 Hi, I'm Shreya Malogi</h1>
+  <b>Data Scientist | ML Engineer | MSc Data Analytics @ BSBI Berlin</b><br>
+  Founder at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
+</p>
 
-# 👋 Hi, I'm Shreya Malogi
-**Data Scientist | ML Engineer | MSc Data Analytics @ BSBI Berlin** | 
- Founder at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
+
 
 <p align="center">
   <a href="https://github.com/shreyamalogi?tab=repositories&sort=stargazers">
