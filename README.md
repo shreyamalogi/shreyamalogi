@@ -16,16 +16,37 @@
 **Data Scientist | ML Engineer | MSc Data Analytics @ BSBI Berlin** | 
  Founder at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
 
+<p align="center">
+  <a href="https://github.com/shreyamalogi?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub"
+    src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shreyamalogi"/>
+  </a>
+  
+  <a href="https://github.com/shreyamalogi?tab=followers">
+    <img alt="followers" title="Follow me on GitHub"
+    src="https://custom-icon-badges.herokuapp.com/github/followers/shreyamalogi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyamalogi&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="Profile views" />
+</p>
+
+<a align="right">
+  <img align="right" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
+</a>
+
+
 ---
 
 ### 🚀 Career Objective & Availability
-🎯 **Actively Seeking:** * **Werkstudent (Working Student) Roles** (Immediate Start)
+🎯 **Actively Seeking:** **Werkstudent (Working Student) Roles** (Immediate Start)
 
 🎓 **Full-Time Data Science/ML Roles** (From April 2026)
  
 📍 **Location:** Berlin, Germany (Open to Hybrid/Remote)
 
-🇩🇪 **Language:** **Professional Working Proficiency in German (B1)**
+
 
 ---
 
@@ -61,54 +82,7 @@
 
 
 
-<h1 align="center">Shreya Malogi</h1>
 
-<p align="center">📍 Berlin, Germany</p>
-
-<h3 align="center">
-  🎓 MSc Data Analytics @ BSBI | 💻 Full-Stack Developer | 🤖 AI & Data Enthusiast  
-</h3>
-
-<h3 align="center">
-  Founder at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a> (4+ years)
-</h3>
-
-<h3 align="center">
-  🔍 Actively seeking freelance projects, internships, full-time, and part-time roles in tech, AI, and software development.
-</h3>
-
----
-
-<p align="center">
-  <a href="https://github.com/shreyamalogi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub"
-    src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shreyamalogi"/>
-  </a>
-  
-  <a href="https://github.com/shreyamalogi?tab=followers">
-    <img alt="followers" title="Follow me on GitHub"
-    src="https://custom-icon-badges.herokuapp.com/github/followers/shreyamalogi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyamalogi&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="Profile views" />
-</p>
-
-<a align="right">
-  <img align="right" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
-</a>
-
----
-
-- 📫 How to reach me: **shreyamalogi@gmail.com**  
-- 🤝 Connect with me: [LinkedIn](https://linkedin.com/in/shreyamalogi)
-
----
-
-### 🔧 Featured 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyamalogi&theme=shadow_green&repo=MyBestWorks)](https://github.com/shreyamalogi/MyBestWorks)
 
 
 
@@ -140,29 +114,16 @@
 
 
 
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shreyamalogi&theme=shadow_green&no-frame=true&row=1&&margin-w=30&no-bg=true">
 
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamalogi&theme=shadow_green&layout=donut" alt="Top Langs" width="500" height="250">
-  </a>
-</div>
 
-<div align="center">
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyamalogi&theme=shadow_green&show_icons=trueshow_icons=true&locale=en" alt="GitHub Stats" width="1200" height="250">
-  </div>
-  <div style="float: left;">
-    <img src="https://streak-stats.demolab.com/?user=shreyamalogi&theme=shadow_green" alt="GitHub Streak" width="1400" height="250">
-  </div>
-  <div style="clear: both;"></div>
-</div>
+
+
+
+
 
 
 [![An image of @5hre9a's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5hre9a)](https://holopin.io/@5hre9a)
