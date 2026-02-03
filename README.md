@@ -15,7 +15,8 @@
   <h1>👋 Hallo! Ich bin SHREYA MALOGI</h1>
   <p>
     <b>Data Scientist | ML Engineer | MSc Data Analytics @ BSBI Berlin</b><br>
-    Founder at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
+    
+   Former Founder & Tech Director at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
   </p>
 </div>
 
