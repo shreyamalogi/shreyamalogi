@@ -80,6 +80,10 @@
 
 [![Email](https://img.shields.io/badge/Email-shreyamalogi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyamalogi@gmail.com)
 
+<a href="mailto:shreyamalogi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shreyamalogi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</a>
+
 
 
 
