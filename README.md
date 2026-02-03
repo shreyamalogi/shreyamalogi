@@ -46,6 +46,7 @@
  
 📍 **Location:** Berlin, Germany (Open to Hybrid/Remote)
 
+🇩🇪 Language: German (A2 Elementary – Currently advancing to B1)
 
 
 ---
