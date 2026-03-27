@@ -16,7 +16,7 @@
   <p>
     <b>Data Scientist | ML Engineer | MSc Data Analytics @ BSBI Berlin</b><br>
     
-   Former Founder & Tech Director at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
+   Former Lead Developer & Founder  at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
   </p>
 </div>
 
