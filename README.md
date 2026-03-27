@@ -7,12 +7,13 @@
 <!--🎨CAPSULE /🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 
 
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2379A500&height=60&duration=3000&center=true&lines=DATA+SCIENTIST;ML+ENGINEER;BIG+DATA+SPECIALIST">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2379A500&width=800&height=100&duration=3000&center=true&lines=DATA%20SCIENTIST;ML%20ENGINEER;BIG%20DATA%20SPECIALIST;PREDICTIVE%20ANALYTICS">
 </p>
 
 <div align="center">
-  <h1>👋 Hallo! I'm SHREYA MALOGI</h1>
+  <h1>👋 Hello! I'm SHREYA MALOGI</h1>
   <p>
     <b>MSc Data Analytics @ BSBI Berlin | Data Scientist | ML Engineer</b><br>
     <i>Architecting Scalable Forecasting Engine & Industrial Computer Vision</i>
