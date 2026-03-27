@@ -1,7 +1,4 @@
 
-<!--💬GREETINnG/ WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
 
 <!--📏LINE-->
@@ -10,86 +7,67 @@
 <!--🎨CAPSULE /🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2379A500&height=60&duration=3000&center=true&lines=DATA+SCIENTIST;ML+ENGINEER;BIG+DATA+SPECIALIST">
+</p>
 
 <div align="center">
-  <h1>👋 Hallo! Ich bin SHREYA MALOGI</h1>
+  <h1>👋 Hallo! I'm SHREYA MALOGI</h1>
   <p>
-    <b>Data Scientist | ML Engineer | MSc Data Analytics @ BSBI Berlin</b><br>
-    
-   Former Lead Developer & Founder  at <a href="https://github.com/CodeMacrocosm" target="_blank">CodeMacrocosm</a>
+    <b>MSc Data Analytics @ BSBI Berlin | Data Scientist | ML Engineer</b><br>
+    <i>Architecting Scalable Forecasting Engine & Industrial Computer Vision</i>
   </p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/shreyamalogi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub"
-    src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shreyamalogi"/>
-  </a>
-  
-  <a href="https://github.com/shreyamalogi?tab=followers">
-    <img alt="followers" title="Follow me on GitHub"
-    src="https://custom-icon-badges.herokuapp.com/github/followers/shreyamalogi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyamalogi&label=Profile%20views&color=0E9C47&style=for-the-badge" alt="Profile views" />
-</p>
+### 🚀 Career Objective & Immediate Availability
+🎯 **Actively Interviewing:** Seeking **Full-Time Data Science / ML Engineer** roles.
 
-<a align="right">
-  <img align="right" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif">
-</a>
+📍 **Location:** Berlin, Germany (Hybrid/Remote) & Open to **GCC Roles in Hyderabad, India**.
 
+📅 **Availability:** Immediate Start (April 2026).
+
+🇩🇪 **Language:** German (A2 Elementary – Advancing to B1).
 
 ---
 
-### 🚀 Career Objective & Availability
-🎯 **Actively Seeking:** **Werkstudent (Working Student) Roles** (Immediate Start)
-
-🎓 **Full-Time Data Science/ML Roles** (From April 2026)
- 
-📍 **Location:** Berlin, Germany (Open to Hybrid/Remote)
-
-🇩🇪 Language: German (A2 Elementary – Currently advancing to B1)
-
+### 📊 Engineering Highlights 
+* 🏗️ **Big Data Architect:** Engineered a **15.2M record pipeline** using **PySpark** and **GCP Dataproc**.
+* 📉 **Memory Optimization:** Achieved **70% RAM reduction** via advanced data downcasting and feature engineering.
+* 👁️ **Computer Vision:** Developed an industrial-grade ReUNet model achieving **91.7% Accuracy**.
+* 👥 **Technical Leadership:** Former **Founder & Lead Developer** at CodeMacrocosm; scaled an open-source community to **2,100+ members** and **1.2k+ Stars**.
 
 ---
 
-### 📊 Professional Highlights
-* 🔭 **Current Project:** Architecting an **Industrial Demand Forecasting Pipeline** for 15.2M records.
-* ⚙️ **Resource Optimization:** Expert in memory-safe data processing (achieved **70% RAM reduction** via downcasting).
-* 🎓 **Academics:** Advancing research in **Sales Analytics** and **Predictive Modeling** at BSBI.
-* 👥 **Leadership:** Former **Technical Director** of a global open-source community (scaled to 500+ devs).
-
----
-
-### 🛠️ Technical Toolbox
+### 🛠️ Technical Toolbox (Ranked by Industry Demand)
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Science / ML** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-blue) ![XGBoost](https://img.shields.io/badge/-XGBoost-blue) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
-| **Big Data / Cloud** | ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Vision / Real-Time**| ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![HOG/Dlib](https://img.shields.io/badge/-Dlib-red) |
+| **Machine Learning** | **Python**, Scikit-Learn, **LightGBM**, XGBoost, TensorFlow, OpenCV |
+| **Data Engineering** | **PySpark**, **GCP (Dataproc/BigQuery)**, SQL (PostgreSQL), ETL Pipelines |
+| **Statistical Research**| Predictive Modeling, Time-Series Forecasting, Sales Analytics |
+| **Software Ops** | Git/GitHub, **DSA (O(n) Optimization)**, Docker, Flask API |
 
 ---
 
-### 🏆 Featured Project: Industrial-Scale Forecasting
-**Scale:** 15.2 Million Transactions | **Optimization:** 70% RAM Reduction
-*A production-grade pipeline solving zero-inflation in retail demand using Tweedie-LightGBM.*
-[**Explore Repository →**](https://github.com/shreyamalogi/Industrial-Demand-Forecasting-Pipeline)
+### 🏆 Featured Project: Industrial-Scale Forecasting Pipeline
+**Scale:** 15.2 Million Transactions | **Tech:** PySpark, LightGBM, GCP
+* **The Problem:** High-latency and memory crashes during large-scale retail demand forecasting.
+* **The Solution:** Implemented a Tweedie-loss LightGBM model with a memory-optimized data loader.
+* **The Result:** **70% less memory usage** and **15% higher accuracy** than baseline models.
+[**View Project →**](https://github.com/shreyamalogi/Industrial-Demand-Forecasting-Pipeline)
 
 ---
 
-### 📫 Connect with Me
+### 🧠 My DSA & Coding Philosophy
+I write **Production-Grade Python**. I focus on $O(n)$ time complexity and memory-efficient data structures to ensure ML models scale seamlessly from 1k to 10M+ records.
+
+---
+
+### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyamalogi/) 
-
 [![Email](https://img.shields.io/badge/Email-shreyamalogi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyamalogi@gmail.com)
-
-
-
-
-
-
 
 
 
@@ -224,6 +202,20 @@
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
