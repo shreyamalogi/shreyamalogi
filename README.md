@@ -25,11 +25,11 @@
 ### 🚀 Career Objective & Immediate Availability
 🎯 **Actively Interviewing:** Seeking **Full-Time Data Science / ML Engineer** roles.
 
-📍 **Location:** Berlin, Germany (Hybrid/Remote) & Open to **GCC Roles in Hyderabad, India**.
+📍 **Location:** Hyderabad, India (Available for Local & GCC Roles) | Globally Mobile.
 
-📅 **Availability:** Immediate Start (April 2026).
+📅 **Availability:** Immediate Start .
 
-🇩🇪 **Language:** German (A2 Elementary – Advancing to B1).
+
 
 ---
 
