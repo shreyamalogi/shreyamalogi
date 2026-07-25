@@ -15,11 +15,19 @@
 </p>
 
 <div align="center">
-  <h1>👋 Hello! I'm SHREYA MALOGI</h1>
+  <h1> SHREYA MALOGI</h1>
 
 </div>
 
 ---
+<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<p align="center">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+</p>
 
 
 
@@ -27,9 +35,6 @@
 
 ####  [Shreya Malogi's Dynamic Portfolio README](https://github.com/shreyamalogi/MyBestWorks)
 * **The Description:** A centralized showcase highlighting my versatility across Software Development, Tech Leadership/Direction, and Creative Engineering projects. It acts as a curated window into my most impactful and multifaceted work.
----
-
-
 ---
 
 ### 📫 Let's Connect
@@ -42,14 +47,6 @@
 
 
 
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-</p>
 
 
 
@@ -62,6 +59,11 @@
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shreyamalogi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shreyamalogi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyamalogi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
