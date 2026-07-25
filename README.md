@@ -16,83 +16,12 @@
 
 <div align="center">
   <h1>👋 Hello! I'm SHREYA MALOGI</h1>
-  <p>
-    <b>MSc Data Analytics @ BSBI Berlin | Data Scientist | ML Engineer</b><br>
-    <i>Architecting Scalable Forecasting Engine & Industrial Computer Vision</i>
-  </p>
+
 </div>
 
 ---
 
-### 🚀 Career Objective & Immediate Availability
-**Actively Interviewing:** Seeking **Full-Time Data Science / ML Engineer** roles.
 
-**Location:** Hyderabad, India (Available for Local & GCC Roles) | Globally Mobile.
-
-**Availability:** Immediate Start.
-
----
-
-### 📊 Engineering Highlights 
-* **Big Data Architect:** Engineered a **15.2M record pipeline** using **PySpark** and **GCP Dataproc**.
-* **Memory Optimization:** Achieved **70% RAM reduction** via advanced data downcasting and feature engineering.
-* **Computer Vision:** Developed an industrial-grade ReUNet model achieving **91.7% Accuracy**.
-* **Technical Leadership:** Former **Founder & Lead Developer** at CodeMacrocosm; scaled an open-source community to **2,100+ members** and **1.2k+ Stars**.
-
----
-
-###  Technical Toolbox (Ranked by Industry Demand)
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Machine Learning** | **Python**, Scikit-Learn, **LightGBM**, XGBoost, TensorFlow, OpenCV |
-| **Data Engineering** | **PySpark**, **GCP (Dataproc/BigQuery)**, SQL (PostgreSQL), ETL Pipelines |
-| **Statistical Research**| Predictive Modeling, Time-Series Forecasting, Sales Analytics |
-| **Software Ops** | Git/GitHub, **DSA (O(n) Optimization)**, Docker, Flask API |
-
----
-
-### 🏆 Featured Core Architectures
-
-####  [Industrial-Scale Forecasting Pipeline](https://github.com/shreyamalogi/Industrial-Demand-Forecasting-Pipeline)
-**Scale:** 15.2 Million Transactions | **Tech:** PySpark, LightGBM, GCP
-* **The Problem:** High-latency and memory crashes during large-scale retail demand forecasting.
-* **The Solution:** Implemented a Tweedie-loss LightGBM model with a memory-optimized data loader.
-* **The Result:** **70% less memory usage** and **15% higher accuracy** than baseline models.
-
-####  [Predictive HR Intelligence & Behavioral Analytics](https://github.com/shreyamalogi/Predictive-HR-Intelligence-Analytics)
-* **The Description:** A Strategic HR Intelligence Workspace leveraging Behavioral Analytics to predict employee attrition. Features a flight-risk engine analyzing Retention Rates, Income-to-Attrition correlation, and patterns.
-* **Tech Stack:** Python, Advanced SQL, Data Modeling
-
-####  [Multi-Domain CV Intelligence Workspace](https://github.com/shreyamalogi/Multi-Domain-CV-Intelligence-Workspace)
-* **The Description:** A high-precision Computer Vision workspace featuring ReUNet for medical segmentation and MobileNetV2 for AgTech classification. Demonstrating cross-domain AI expertise in Healthcare Diagnostics.
-* **Tech Stack:** PyTorch, Jupyter Notebook, OpenCV
-
----
-
-###  More Production & Data Engineering Repositories
-
-<details>
-  <summary><strong>🔍 Click to View Additional AI, Big Data & Analytics Projects</strong></summary>
-
-###  Business Intelligence & Big Data Pipelines
-
-* **[Retail-Sales-Intelligence-Dashboard](https://github.com/shreyamalogi/Retail-Sales-Intelligence-Dashboard)**
-    * *Impact:* Architected a multi-branch retail performance dashboard tracking Total Sales, Gross Income, and Tax (5%) across diverse product categories and cities.
-* **[Amazon-BigData-Verified-Review-Classifier](https://github.com/shreyamalogi/Amazon-BigData-Verified-Review-Classifier)**
-    * *Impact:* Scalable Trust-Signal Detection: A Big Data pipeline using PySpark and GCP Dataproc to classify 8GB+ of Amazon reviews with high-precision Random Forest modeling. Engineered for horizontal scalability using Hive bucket partitioning.
-* **[Retail-Data-Engineering-Pipeline](https://github.com/shreyamalogi/Retail-Data-Engineering-Pipeline)**
-    * *Impact:* Scalable ETL Pipeline: Processing 5M+ retail records with PySpark on GCP Dataproc. Automated the extraction of global business KPIs and consumer trends. Includes an Ethical Data Framework.
-
-###  Interactive Systems & Machine Learning Repos
-
-* **[Biometric-Attendance-Engine](https://github.com/shreyamalogi/Biometric-Attendance-Engine)**
-    * *Impact:* Real-time face recognition system using HOG encodings and Dlib landmarks. Features a high-speed Flask/OpenCV pipeline for live video processing and automated SQL database logging.
-* **[Intelligent-Travel-Recommendation-Engine](https://github.com/shreyamalogi/Intelligent-Travel-Recommendation-Engine)**
-    * *Impact:* An Intelligent Travel Recommendation Engine using TF-IDF Vectorization and KNN to predict optimal tourist destinations. Features a modular Python/Tkinter architecture.
-* **[Mushroom-Classification-Predictive-Analytics](https://github.com/shreyamalogi/Mushroom-Classification-Predictive-Analytics)**
-    * *Impact:* High-precision predictive classification achieving 100% accuracy using Random Forest & XGBoost. Optimized via GridSearchCV to ensure zero-false-negative outcomes in safety-critical settings.
-</details>
 
 ###  Comprehensive Portfolio & Creative Works
 
@@ -100,8 +29,6 @@
 * **The Description:** A centralized showcase highlighting my versatility across Software Development, Tech Leadership/Direction, and Creative Engineering projects. It acts as a curated window into my most impactful and multifaceted work.
 ---
 
-###  DSA & Coding Philosophy
-I write **Production-Grade Python**. I focus on $O(n)$ time complexity and memory-efficient data structures to ensure ML models scale seamlessly from 1k to 15M+ records.
 
 ---
 
