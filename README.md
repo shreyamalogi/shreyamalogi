@@ -3,7 +3,7 @@
   <p><em>Multidisciplinary Technologist | Founder @CodeMacrocosm</em></p>
   
   <p>
-    <a href="https://shreyamalogi.github.io/MyBestWorks/">
+    <a href="https://shreyamalogi.github.io/Portfolio/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Dynamic_Showcase-0ea5e9?style=flat-square" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/shreyamalogi/">
@@ -18,7 +18,7 @@
 <br>
 
 ### ⚡ About My Work
-A curated repository showcasing my versatility across Software Development, Tech Leadership/Direction, and Creative Engineering projects. Check out my live [Dynamic Portfolio Website](https://shreyamalogi.github.io/MyBestWorks/).
+A curated repository showcasing my versatility across Software Development, Tech Leadership/Direction, and Creative Engineering projects. Check out my live [Dynamic Portfolio Website](https://shreyamalogi.github.io/Portfolio/).
 
 <br>
 
